@@ -40,13 +40,20 @@ subsequent publication in conferences or journals.
 Submitted papers should be most 5 pages in length
 (excluding references and appendices) and be prepared 
 using the EPTCS style file available from:
+
 http://style.eptcs.org/ 
+
 Each accepted extended abstract must be presented by an author
 at the workshop, 18-19 July 2018.
 
-Extended abstract submission deadline: 15 April 2018
-Acceptance Notification: 15 May 2018
-Workshop: 18-19 July 2018
+Submission site:
+
+	https://easychair.org/conferences/?conf=mlp2018 
+
+Dates:
+* Extended abstract submission deadline: 15 April 2018
+* Acceptance Notification: 15 May 2018
+* Workshop: 18-19 July 2018
 
 Program Committee:
 * Marc Brockshmidt, https://www.microsoft.com/en-us/research/people/mabrocks/ 
