@@ -48,7 +48,7 @@ at the workshop, 18-19 July 2018.
 
 Submission site:
 
-	https://easychair.org/conferences/?conf=mlp2018 
+https://easychair.org/conferences/?conf=mlp2018 
 
 Dates:
 * Extended abstract submission deadline: 15 April 2018
