@@ -25,14 +25,17 @@ Invited speakers:
 * Martin Vechev, ETH Zurich, http://www.srl.inf.ethz.ch/ 
 * Jules Villard, Facebook, https://www.doc.ic.ac.uk/~jvillar1/
 
-Workshop accepts submissions of extended abstracts
+The workshop accepts submissions of extended abstracts
 that will be disseminated on the workshop web site. 
 We welcome applied and theoretical contributions exploring, among others: 
+
 * new learning algorithms, models, and architectures for the domain of programs;
-* source code representations for learning;
+* machine learning methods for program suggestion, synthesis, debugging, and other programming tasks;
 * probabilistic extensions of conventional program analyses;
-* applying natural language processing techniques to code;
+* source code representations for learning;
+* applying natural language processing techniques to code, comments, documentation, and other software artifacts;
 * description and evaluations of new tools;
+
 Well-prepared surveys and vision statements will also be considered.
 
 The accepted extended abstracts will not preclude 
